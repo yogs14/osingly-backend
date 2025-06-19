@@ -1,4 +1,5 @@
 __pycache__/
+.pytest_cache/
 *.pyc
 
 venv/
@@ -8,3 +9,6 @@ venv/
 
 .vscode/
 tempCodeRunnerFile.py
+tst.py
+
+models/
